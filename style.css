@@ -224,4 +224,13 @@ footer{
 
 .over-background{
     color: rgb(25, 83, 25);
+    font-weight: bold;
+}
+
+.over-background img{
+    align-items: center;
+    height: 400px; 
+    margin: 5px 5px;
+    padding: 0px 50px;
+    margin: auto;
 }
